@@ -1,0 +1,9 @@
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/TranSettingsApk/TranSettingsApk.apk
+system_ext/app/TranssionCamera/TranssionCamera.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/operator/app/Photos/Photos.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
+vendor/data/camera/vidhance/vidhance.lic
+vendor/etc/dts/dts-eagle.lic
